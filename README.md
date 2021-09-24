@@ -36,7 +36,7 @@
 * Pripraviť sa na budúcu prácu alebo podnikanie v oblasti marketingu a reklamy
 
 ## 📈 YouTube video záznamy z cvičení Playlist
-[YouTube kanál IT Academy](https://www.youtube.com/watch?v=0aV5g2rQCl8&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24)
+[YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk-2RvvI9vcafGTCj_VylD0S)
 
 ## Podmienky na absolvovanie predmetu
 * **40 bodov** formou **tímovej práce** v podobe **semestrálenho projektu**, 10x10 bodov -> 1 bod = 1 % zo 40 bodov
