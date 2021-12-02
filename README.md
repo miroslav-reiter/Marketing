@@ -39,7 +39,7 @@
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk-2RvvI9vcafGTCj_VylD0S)
 
 ## Podmienky na absolvovanie predmetu
-* **40 bodov** formou **tímovej práce** v podobe **semestrálenho projektu**, 10x10 bodov -> 1 bod = 1 % zo 40 bodov
+* **40 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**, 10x10 bodov -> 1 bod = 1 % zo 40 bodov
   * **Aktívna účasť** (v prípade neospravedlnenej neúčasti alebo nepripravenosti na cvičenie (seminár) strata 10%)
 * **60 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
