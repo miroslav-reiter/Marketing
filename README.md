@@ -1,7 +1,7 @@
 # 📈 MARKETING
 
 * Seminár z marketingu (cvičenia)
-* UK FM v Bratislave 2021
+* Univerzita Komenského v Bratislave Fakulta managementu UK FM 2021
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
 * Úroveň: začiatočník/mierne pokročilý
