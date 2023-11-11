@@ -42,3 +42,12 @@
   * **Aktívna účasť** (v prípade neospravedlnenej neúčasti alebo nepripravenosti na cvičenie (seminár) strata 10%)
 * **60 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
+
+## 🏆 Ako a Čo hodnotím v odovzdanom Projekte?
+Krátka odpoveď: **Všetko**.
+
+Dlhšia odpoveď:
+1. Splnenie povinných náležitostí.
+1. Obsah, forma a kvalita prezentácie.
+1. Pripravenosť a odprezentovanie/prednes.
+1. Pridaná hodnota a prínosy projektu.
